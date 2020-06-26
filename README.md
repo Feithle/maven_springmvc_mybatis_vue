@@ -197,3 +197,11 @@ $ npm info 模块名
 ### idea中的命令
 
 ![](https://mdfileimg.oss-cn-beijing.aliyuncs.com/markdown_pic/20200626132633.png)
+
+## 前后端的分离
+
+> 目前查找到的教程大部分时spring boot 与vue来实现前后端的分离
+
+新建一个项目，将这里的spring改成spring boot，把这里的内容移植到新项目中。
+
+看下一个项目：
