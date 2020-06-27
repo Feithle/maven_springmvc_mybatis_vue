@@ -204,4 +204,4 @@ $ npm info 模块名
 
 新建一个项目，将这里的spring改成spring boot，把这里的内容移植到新项目中。
 
-看下一个项目：
+看下一个项目：https://github.com/Feithle/maven_springboot_mybatis_vue
